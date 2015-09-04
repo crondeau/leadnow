@@ -1,0 +1,28 @@
+
+.event {
+	background: url('images/bg.png');
+}
+
+td.activity1,
+li.activity1 {
+	background: url('images/bg1.png');
+}
+
+td.activity2,
+li.activity2 {
+	background: url('images/bg2.png');
+}
+td.activity3,
+li.activity3 {
+	background: url('images/bg3.png');
+}
+td.activity4,
+li.activity4 {
+	background: url('images/bg5.png');
+}
+
+
+li.activity1, li.activity2, li.activity3, li.activity4 {
+	border-bottom: none;
+	padding: 10px 20px;
+}
